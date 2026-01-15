@@ -34,5 +34,6 @@
   "sort_first_word",
   "sort_uniq_count",
   "nth_word",
-  "tail_kth_line"
+  "tail_kth_line",
+  "cut_nth_word"
 ]
