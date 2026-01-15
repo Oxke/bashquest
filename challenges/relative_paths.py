@@ -19,7 +19,7 @@ class RelativePathsChallenge(BaseChallenge):
         "What is the *relative path* from this directory to:",
         "  {target_dir}",
         "",
-        "The flag is the relative path."
+        "The flag is the relative path.",
         "Note: the path MUST be the shortest possible one.",
     ]
     requires_flag = True
