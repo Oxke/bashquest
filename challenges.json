@@ -31,5 +31,6 @@
   "grep_flag_across_files",
   "sort_last_word",
   "sort_first_word",
+  "sort_uniq_count",
   "nth_word"
 ]
