@@ -7,6 +7,7 @@
   "largest_file",
   "find_directory",
   "cat_file",
+  "touch_file",
   "wc_random",
   "ls_count_files",
   "echo_redirect_single_word",
