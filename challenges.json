@@ -36,5 +36,6 @@
   "nth_word",
   "tail_kth_line",
   "cut_nth_word",
-  "tr_remove_digits"
+  "tr_remove_digits",
+  "sort_size_flag"
 ]
