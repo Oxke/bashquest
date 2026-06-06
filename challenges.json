@@ -17,6 +17,7 @@
   "tab_completion",
   "cd_maze",
   "cd_permissions",
+  "paste_for_path",
   "mkdir_single_directory",
   "mkdir_nested_directories",
   "rmdir_deepest_directory",
